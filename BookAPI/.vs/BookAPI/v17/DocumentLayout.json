@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\repo\\dapperrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\repo\\dapperrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\dappercontext\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\dappercontext\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\interface\\idapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\interface\\idapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|c:\\dnet_pro\\bookapi_final\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0635F57-3521-4031-9811-39CFE8C0C4C5}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:11:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperDbContext.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\DapperContext\\DapperDbContext.cs",
+              "RelativeDocumentMoniker": "BookAPI\\DapperContext\\DapperDbContext.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\DapperContext\\DapperDbContext.cs",
+              "RelativeToolTip": "BookAPI\\DapperContext\\DapperDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:18:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperRepo.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Repo\\DapperRepo.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Repo\\DapperRepo.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Repo\\DapperRepo.cs",
+              "RelativeToolTip": "BookAPI\\Repo\\DapperRepo.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAswFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:17:55.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDapperService.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Interface\\IDapperService.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Interface\\IDapperService.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Interface\\IDapperService.cs",
+              "RelativeToolTip": "BookAPI\\Interface\\IDapperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:52:01.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:12:55.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Dnet_pro\\BookAPI_Final\\BookAPI\\BookAPI\\Models\\Book.cs",
+              "RelativeToolTip": "BookAPI\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:31.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
